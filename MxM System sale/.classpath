@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_192"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/Files to work with/jasperreports-6.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-beanutils-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/jfoenix.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/JFXMaterial.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/JFXMaterialDemo.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-examples-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-excelant-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/hakou/stdy/Project/point-of-sale-system/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
